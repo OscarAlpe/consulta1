@@ -1,15 +1,15 @@
 ﻿SET NAMES 'utf8';
 
-DROP DATABASE IF EXISTS ejemplo1yii2;
+DROP DATABASE IF EXISTS ejemplo1Consultas1Yii2Poo;
 
-CREATE DATABASE IF NOT EXISTS ejemplo1yii2
+CREATE DATABASE IF NOT EXISTS ejemplo1Consultas1Yii2Poo
 CHARACTER SET utf8
 COLLATE utf8_spanish_ci;
 
 --
 -- Set default database
 --
-USE ejemplo1yii2;
+USE ejemplo1Consultas1Yii2Poo;
 
 --
 -- Create table `noticias`
